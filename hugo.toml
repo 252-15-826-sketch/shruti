@@ -2,7 +2,7 @@
 # real origin. Deployments override it with HUGO_BASEURL (Vercel sets this
 # automatically); local development falls back to the placeholder below.
 baseURL = "https://example.com/"
-relativeURLs = true
+relativeURLs = false
 theme = "folio"
 # The site title is only a fallback for tools that read it directly. Every
 # page, the RSS feed and the metadata take the person's name from
